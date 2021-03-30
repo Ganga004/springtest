@@ -8,6 +8,4 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "gangatharan learning SPring" );
-    }
-}
+        System.out.println( "gangatharan is learnin DevOps");
